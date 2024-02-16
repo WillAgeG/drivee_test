@@ -112,4 +112,3 @@
 
 ## Код реализации есть в /src/drivee_test.pynb:
   - Вся работа сделана в Jupyter Notebook.
-  - ![image](https://github.com/WillAgeG/drivee_test/assets/124677224/b03603c1-cb1d-4ff5-839a-439c9a97a063)
