@@ -42,6 +42,7 @@
       В другом примере 5+3 = 8 минут.
 
 ![image](https://github.com/WillAgeG/drivee_test/assets/124677224/8c1f2ddc-fa93-4ae8-b568-898fe665d116)
+Картинка 1
 
 ### Буферный (балковый) подход:
 
